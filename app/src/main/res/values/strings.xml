@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAleatoryApplication</string>
+    <string name="button_listener">Rodar</string>
+</resources>
